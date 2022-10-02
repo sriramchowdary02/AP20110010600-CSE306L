@@ -1,0 +1,28 @@
+enter the number of productions
+11
+Enter the productions(epsilon=^):
+P=AQRbe
+P=mn
+P=DEi
+A=ab
+A=^
+Q=qr
+Q=^
+R=rs
+R=^
+D=d
+E=e
+Enter the element whose FOLLOW is to be found:A
+FOLLOW(A) = { q ^  }
+Do you want to continue(0/1)?1
+Enter the element whose FOLLOW is to be found:R
+FOLLOW(R) = { b  }
+Do you want to continue(0/1)?D
+Enter the element whose FOLLOW is to be found:FOLLOW(D) = { e  }
+Do you want to continue(0/1)?1
+Enter the element whose FOLLOW is to be found:D
+FOLLOW(D) = { e  }
+Do you want to continue(0/1)?1
+Enter the element whose FOLLOW is to be found:Q
+FOLLOW(Q) = { r ^  }
+Do you want to continue(0/1)?
