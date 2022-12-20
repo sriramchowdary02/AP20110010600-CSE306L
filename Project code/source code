@@ -1,0 +1,11 @@
+numb A=10$
+numb B=20$
+numb C=A+B$ @ sum of two numbers
+when(A<B):  @ conditional construct
+_print("B")$
+else:
+/@ SUZUKA COMPILER @/
+_print("A")$
+numb I =0$
+iterate I to C: @ Iteration
+_print(I)$
