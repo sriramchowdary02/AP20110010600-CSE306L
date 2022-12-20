@@ -1,0 +1,62 @@
+numb is Keyword
+   is delimiter
+A is Identifier
+ = is Assignment operator
+10 is Unsigned Integer
+ $ is statement terminator
+numb is Keyword
+   is delimiter
+B is Identifier
+ = is Assignment operator
+20 is Unsigned Integer
+ $ is statement terminator
+numb is Keyword
+   is delimiter
+C is Identifier
+ = is Assignment operator
+ + is arithmetic operator
+ $ is statement terminator
+   is delimiter
+when is Keyword
+ ( is delimiter
+ < is Relational operator Lessthan
+ ) is delimiter
+ : is delimiter
+   is delimiter
+   is delimiter
+ _ is delimiter
+ print is function
+ ( is delimiter
+ " is delimiter
+ " is delimiter
+ ) is delimiter
+ $ is statement terminator
+else is Keyword
+ : is delimiter
+ _ is delimiter
+ print is function
+ ( is delimiter
+ " is delimiter
+ " is delimiter
+ ) is delimiter
+ $ is statement terminator
+numb is Keyword
+   is delimiter
+I is Identifier
+   is delimiter
+ = is Assignment operator
+0 is Unsigned Integer
+ $ is statement terminator
+iterate is Keyword
+   is delimiter
+   is delimiter
+ t is delimiter
+ o is delimiter
+   is delimiter
+ : is delimiter
+   is delimiter
+ _ is delimiter
+ print is function
+ ( is delimiter
+ ) is delimiter
+ $ is statement terminator
